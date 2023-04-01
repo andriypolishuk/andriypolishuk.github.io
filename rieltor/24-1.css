@@ -1,0 +1,42 @@
+img{
+    width: 100%;
+}
+.main-menu{
+    display: flex;
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.main-menu li{
+    margin-right: 15px;
+}
+body{
+    font-family: 'Playfair Display', serif;
+}
+.my-card{
+    box-shadow: 0px 10px 3px 5px rgb(191, 198, 245);
+    letter-spacing: 0.15em;
+    text-shadow: 4px 4px 0px #d5d5d5, 7px 7px 0px rgba(0, 0, 0, 0.2);
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic,
+        "AppleGothic", sans-serif;
+margin: 15px;
+}
+h3{
+    padding: 15px;
+}
+.footer{
+    background-color: dimgrey;
+    padding: 50px 0;
+    margin-top: 15px;
+}
+.socio-link{
+    font-size: 2rem;
+    color: gainsboro;
+    margin: 10px;
+}
+.socio-link:hover{
+    color: white;
+}
+.footer p{
+    color: gainsboro;
+}
