@@ -1,0 +1,22 @@
+img{
+    width: 100%;
+}
+.zoom:hover{
+    transform: scale(10);
+}
+.zoom{
+    transition: 0.5s;
+}
+.col-md-5{
+    overflow: hidden;
+}
+footer{
+    padding-top: 30px;
+    background-color: blue;
+    padding-bottom: 30px;
+    margin-top: 50px;
+    color: white;
+}
+.logo{
+    width: 25px;
+}
