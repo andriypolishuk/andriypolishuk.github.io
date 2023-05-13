@@ -1,0 +1,18 @@
+img{
+    width: 100%;
+}
+.zagolovok{
+    background-color: darkgray;
+    text-align: center;
+    padding: 15px;
+}
+.my-bg-1{
+    background-color: lightgreen;
+    padding: 15px;
+}
+[class *=col]{
+    padding: 20px 10px;
+}
+.my-shadow{
+    box-shadow: lightslategrey 15px 15px 15px;
+}
